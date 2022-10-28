@@ -4,6 +4,6 @@
 #include <stdio.h>
 #include <math.h>
 
-unsigned int binary_to_uint(const char *b);
+unsigned int binary_to_uint(char *b);
 
 #endif /* MAIN_H */
