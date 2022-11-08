@@ -39,9 +39,9 @@ int find_len(char *s)
 
 /**
  * check - checks the elements for equality
- * @j: length of string
- * @m: mid point of string
- *
+ * @len: length of string
+ * @mid: mid point of string
+ * @index: pointer to first element (initially)
  * Return: int value
  */
 
