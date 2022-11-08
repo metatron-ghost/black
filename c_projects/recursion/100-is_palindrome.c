@@ -18,6 +18,7 @@ int is_palindrome(char *s)
 	else if (len == 1)
 		return (0);
 
+	len--;
 	mid = len / 2;
 	return (check(s, index, len, mid));
 }
