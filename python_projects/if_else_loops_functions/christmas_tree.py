@@ -9,9 +9,9 @@ start, stop = (count + 1) / 2, (count + 1) / 2
 while (point < length):
     for j in range(1,count + 1):
         if (j < start) or (j > stop):
-            print(" ",end = " ")
+            print(" ",end="")
         else :
-            print("#",end = " ")
+            print("#",end="")
     print("\n")
     start -= 1
     stop += 1
@@ -19,7 +19,7 @@ while (point < length):
 if (point == length):
     for k in range(1,count + 1):
         if (k == ((count + 1) / 2)):
-            print("#",end =" ")
+            print("#",end="")
         else :
-            print(" ",end =" ")
+            print(" ",end="")
 print("\n")
