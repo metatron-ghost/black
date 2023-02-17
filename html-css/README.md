@@ -1,7 +1,7 @@
 # My HTML AND CSS PREOJECT
 ## Languages learnt
-	*html
-	*css
+	* html
+	* css
 ## Concepts learnt
-	*Cascading
+	* Cascading
 
