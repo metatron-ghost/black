@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Connects to load balancer 54.157.154.7 with key in ~/.ssh/school
+
+ssh -i ~/.ssh/school ubuntu@54.157.154.7

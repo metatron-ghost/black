@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 miles = input("Enter a number for miles: ")
 miles = float(miles)
 kilometers = miles * 1.60934
